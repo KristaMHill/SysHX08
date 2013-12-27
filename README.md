@@ -3,7 +3,7 @@ SysHX08
 
 HC08 like soft-processor system
 
-The SysHX08 purpose is to collect and develop resources useful for designing and implementing 68HC08 like systems, using a hardware description language (HDL) based version of the processor. As of this writing the HC08, is still a current processor. Note that the 6808 was a variant of the 6802 processor. While it's unclear if tools were ever developed for the 6808, our HC08 developers have the confusing penchant for choosing names in reference to that other processor. The name of this project includes HX08 for the dual purposes of respecting Freescale and to distance itself from the 6808.
+The SysHX08 purpose is to collect and develop resources useful for designing and implementing 68HC08 like systems, using a hardware description language (HDL) based version of the processor. As of this writing the HC08, is still a current processor. Note that the 6808 was a variant of the 6802 processor. While it's unclear if tools were ever developed for the 6808, software developers have the confusing penchant for choosing names in reference to that other processor. The name of this project includes HX08 for the dual purposes of respecting Freescale and to distance itself from the 6808.
 
 The intent of this project is that such systems will be configured into a field programmable gate array (FPGA) and will executes machine code in the same manner as other processors. The primary motivation for this project is teaching undergraduate students basic computer engineering concepts and provide practical experience in the design, implementation, and test a microprocessor based system.
 
